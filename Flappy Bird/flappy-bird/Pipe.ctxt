@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Pipe
+comment1.params=height
+comment1.target=Pipe(int)
+comment1.text=\r\n\ Creates\ a\ new\ pipe.\r\n\r\n@Return\ Nothing\ is\ returned\r\n\ @param\ height\ the\ height\ of\ the\ pipe\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Things\ to\ do\ for\ each\ turn.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Moves\ the\ pipe\ backward.\r\n\ \r\n\ @Return\ Nothing\ is\ returned\r\n
+numComments=4

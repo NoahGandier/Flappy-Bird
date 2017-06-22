@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bird
+comment0.text=\r\n\ The\ bird.\r\n\ \r\n\ @author\ imacat\ <imacat@mail.imacat.idv.tw>\r\n\ @version\ 2014/2/10\r\n
+comment1.params=
+comment1.target=Bird()
+comment1.text=\r\n\ Creates\ a\ new\ bird.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Things\ to\ do\ for\ each\ turn.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ checkFlap()
+comment3.text=\r\n\ Checks\ if\ the\ bird\ flaps.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Moves\ the\ bird.\r\n\ \r\n
+comment5.params=
+comment5.target=boolean\ checkHit()
+comment5.text=\r\n\ Checks\ if\ the\ bird\ hits\ the\ obstacles.\r\n\ \r\n\ @return\ true\ if\ hit,\ false\ otherwise\r\n
+comment6.params=
+comment6.target=void\ checkScore()
+comment6.text=\r\n\ Checks\ if\ the\ bird\ gets\ ths\ score.\r\n\ \r\n
+numComments=7

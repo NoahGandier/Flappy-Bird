@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sky
+comment1.params=
+comment1.target=Sky()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sky.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Things\ to\ do\ for\ each\ turn.\r\n\ \r\n
+comment3.params=score
+comment3.target=void\ setScore(int)
+comment3.text=\r\n\ Sets\ the\ score.\r\n\ \r\n\ \r\n\ @Return\ Nothing\ is\ returned\r\n\ @param\ score\ the\ score\r\n
+comment4.params=score
+comment4.target=void\ gameOver(int)
+comment4.text=\r\n\ Game\ over.\r\n\ \r\n\ \r\n\ @Return\ Nothing\ is\ returned\r\n\ @param\ score\ the\ score\r\n
+comment5.params=
+comment5.target=void\ addPipePairPeriodically()
+comment5.text=\r\n\ Adds\ a\ pipe\ pair\ periodically.\r\n\ \r\n\ @Return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ addPipePair()
+comment6.text=\r\n\ Adds\ a\ pipe\ pair.\r\n\ \r\n\ @Return\ Nothing\ is\ returned\r\n
+numComments=7
